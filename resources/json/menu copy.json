@@ -25,6 +25,12 @@
         "label": "Portfolio"
     },
     {
+        "nama": "services",
+        "href": "#services",
+        "icon": "bi bi-hdd-stack",
+        "label": "Services"
+    },
+    {
         "nama": "contact",
         "href": "#contact",
         "icon": "bi bi-envelope",
