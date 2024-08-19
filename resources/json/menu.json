@@ -1,0 +1,8 @@
+[
+    {"href": "#hero", "icon": "bi bi-house", "label": "Home", "class": "active"},
+    {"href": "#about", "icon": "bi bi-person", "label": "About"},
+    {"href": "#resume", "icon": "bi bi-file-earmark-text", "label": "Resume"},
+    {"href": "#portfolio", "icon": "bi bi-images", "label": "Portfolio"},
+    {"href": "#services", "icon": "bi bi-hdd-stack", "label": "Services"},
+    {"href": "#contact", "icon": "bi bi-envelope", "label": "Contact"}
+]
